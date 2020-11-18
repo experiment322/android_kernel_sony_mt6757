@@ -75,8 +75,8 @@
 #include <linux/gpio/consumer.h>
 #endif
 #include <mt-plat/upmu_common.h>
-#include <pmic.h>
-#include <pmic_irq.h>
+#include "pmic.h"
+#include "pmic_irq.h"
 /*#include <mach/eint.h> TBD*/
 #include <mach/mtk_pmic_wrap.h>
 #if defined CONFIG_MTK_LEGACY

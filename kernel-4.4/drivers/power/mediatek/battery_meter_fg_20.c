@@ -61,7 +61,7 @@
 #include <mt-plat/upmu_common.h>
 
 //CEI comment start
-#include <../../misc/mediatek/cei_hw_id/cei_hw_id.h>
+#include "../../misc/mediatek/cei_hw_id/cei_hw_id.h"
 extern enum cei_customer_project_type get_cei_customer_project_id(void);
 //CEI comment end
 

@@ -11,6 +11,8 @@
 # GNU General Public License for more details.
 #
 
+ccflags-y += -I$(srctree)/drivers/misc/mediatek/gpio/$(MTK_PLATFORM)/
+
 ifeq ($(CONFIG_MTK_FPGA),y)
 obj-y	:= mtk_gpio_fpga.o
 else
