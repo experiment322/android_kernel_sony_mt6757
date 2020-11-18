@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UPDATE>
+   <SYSTEMPARTITIONIMAGE>partitions_S1-SW-TEST-B316-0001-MBR-32GB.sin</SYSTEMPARTITIONIMAGE>
+   <BOOT>boot.zip</BOOT>
+</UPDATE>
